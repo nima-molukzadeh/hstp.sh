@@ -19,3 +19,8 @@ Instuctions:
 8. bind it in your bash-config (linux mint):
 9. [[ -f ~/.local/bin/hstp.sh ]] && source ~/.local/bin/hstp.sh
 10. use key: ctrl + R  (it replaces the ugly dumb old search version) (realy, doing so many thing but cant fix that since 20k linux years ?)
+
+
+And all that to find this as easy and fast as possible:
+    sudo apt update && sudo apt upgrade && sudo apt autoremove
+        (which also could have been a single "-"uuc (update+upgrade+cleaner) in apt !!!) since felt: 100k linux-years !
